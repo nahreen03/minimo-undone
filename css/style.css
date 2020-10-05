@@ -1,0 +1,171 @@
+/* font-family: 'Playfair Display', serif; */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header part css here  */
+header{
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+
+}
+.logo{
+      width: 20%;
+      float: left;
+}
+nav{
+      width: 50%;
+      float: right;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 87px;
+
+color:#626262;
+
+font-size: 14px;
+
+text-transform: uppercase;
+font-weight: 400;
+font-family: 'Playfair Display', serif;
+}
+/* header part css end here  */
+
+/* banner part css start */
+.banner{
+    width: 90%;
+    margin: auto;
+}
+.banner img{
+    width: 100%;
+}
+.Photodiary{
+    width: 80%;
+    margin: auto;
+    padding: 50px 0px;
+}
+.Photodiary h1{
+     color: #626262;
+     font-size: 30px;
+     margin-bottom: 30px;
+     text-transform: capitalize;
+}
+.Photodiary h6{
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.Photodiary p{
+     color: #626262;
+     font-size: 14px;
+     margin-bottom: 30px;
+     line-height: 1.4;
+     letter-spacing: 1px;
+}
+/* banner part css ends */
+.Lifestyle{
+    width: 80%;
+    margin: auto;
+
+}
+.Lifestyle-content{
+    margin-bottom: 100px;
+    overflow: hidden;
+
+}
+.Lifestyle-one img{
+    width: 100%;
+}
+.Lifestyle-one h6{
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin: 15px 0;
+
+}
+.Lifestyle-one h1{
+    font-size: 30px;
+    text-transform: capitalize;
+    color:#626262;
+    margin-bottom: 15px;
+}
+.Lifestyle-one p{
+    font-size: 14px;
+    color: #626262;
+    line-height: 1.5;
+    letter-spacing: 1px;
+
+}
+.Lifestyle-one{
+    width: 45%;
+    float: left;
+
+}
+.Lifestyle-two img{
+    width: 100%;
+
+}
+.Lifestyle-two h6{
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin: 15px 0;
+}
+.Lifestyle-two h1{
+    font-size: 30px;
+    text-transform: capitalize;
+    color:#626262;
+    margin-bottom: 15px;
+}
+.Lifestyle-two p{
+    font-size: 14px;
+    color: #626262;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+.Lifestyle-two{
+    width: 45%;
+    float: right;
+}
+.Photodiary-content{
+
+}
+.Photodiary-one{
+    width: 45%;
+    float: left;
+}
+.Photodiary-one img,.Photodiary-two img{
+    width: 100%;
+
+}
+.Photodiary-one h1,.Photodiary-two h1{
+    font-size: 30px;
+    text-transform: capitalize;
+    color:#626262;
+    margin-bottom: 15px;
+}
+.Photodiary-one h6,.Photodiary-two h6{
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin: 15px 0;
+}
+.Photodiary-one p,.Photodiary-two p{
+    font-size: 14px;
+    color: #626262;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+.Photodiary-two{
+    width: 45%;
+    float: right;
+
+}
